@@ -1,6 +1,6 @@
 # 🚀 Transforming Ideas into High-Performance Digital Reality
 
-## Hi there, I'm Ritik Gupta! 👋
+## Hi there, I'm Rachit 👋
 **Full-Stack Developer | Open Source Contributor | Problem Solver**
 
 I build scalable, user-centric web applications that combine sleek design with robust backends. Whether you need a high-converting landing page, a complex SaaS platform, or a real-time tracking system, I deliver production-ready code.
